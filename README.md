@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 My name is Heubo Thierry
+🔭 I’m currently working on my work-study projects
+
+🌱 I'm currently learning .Net and new languages like C#
+
+📫 How to reach me: heubothierry@gmail.com
+
+⚡ Fun fact: I am a fan and player of basketball and video games
+
+👯 I'm looking to collaborate on a software development project mainly but I'm not against anyone else.
 
 <!--
 **Thyleo/Thyleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
