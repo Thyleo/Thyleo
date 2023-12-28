@@ -1,9 +1,9 @@
 ### Hi there 👋 My name is Heubo Thierry
 🔭 I’m currently working on my work-study projects
 
-🌱 I'm currently learning .Net and new languages like C#
+🌱 I'm currently learning .Net and Swift
 
-📫 How to reach me: heubothierry@gmail.com
+📫 How to reach me: thyleobis@gmail.com
 
 ⚡ Fun fact: I am a fan and player of basketball and video games
 
